@@ -1,0 +1,6 @@
+El model drifting puede ser especialmente problemático en aplicaciones críticas, 
+como sistemas de detección de fraudes o diagnóstico médico, donde una falta de 
+precisión en el modelo puede tener consecuencias graves. Para mitigar el model drifting, 
+se pueden utilizar técnicas como la re-entrenamiento del modelo con nuevos datos, 
+el monitoreo continuo de la precisión del modelo y la implementación de sistemas de alerta 
+temprana para detectar posibles cambios en los datos o en el entorno.
