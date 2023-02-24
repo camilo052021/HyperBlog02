@@ -4,3 +4,6 @@ precisión en el modelo puede tener consecuencias bastante graves. Para mitigar 
 se pueden utilizar técnicas como la re-entrenamiento del modelo con nuevos datos, 
 el monitoreo continuo de la precisión del modelo y la implementación de sistemas de alerta 
 temprana para detectar posibles cambios en los datos o en el entorno.
+
+fluctuaciones en los datos de entrada o cambios en el entorno en el que 
+se utiliza el modelo.
