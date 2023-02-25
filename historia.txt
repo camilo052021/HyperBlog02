@@ -11,3 +11,6 @@ se utiliza el modelo.
 Es importante tener un ambiente de Staging bien definido y configurado 
 correctamente para evitar errores y fallos en producción, lo que puede tener graves 
 consecuencias para los usuarios finales y para la reputación de la empresa.
+
+En Staging, se realizan pruebas de calidad, pruebas de rendimiento, 
+pruebas de seguridad y cualquier otra prueba necesaria para asegurarse
