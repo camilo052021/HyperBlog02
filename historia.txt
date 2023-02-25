@@ -8,4 +8,6 @@ temprana para detectar posibles cambios en los datos o en el entorno.
 fluctuaciones en los datos de entrada o cambios en el entorno en el que 
 se utiliza el modelo.
 
-entrenado con ciertos datos ya no es capaz de generalizar bien a nuevos datos
+Es importante tener un ambiente de Staging bien definido y configurado 
+correctamente para evitar errores y fallos en producción, lo que puede tener graves 
+consecuencias para los usuarios finales y para la reputación de la empresa.
