@@ -49,3 +49,8 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer footer
+{
+ color: #333;
+}
